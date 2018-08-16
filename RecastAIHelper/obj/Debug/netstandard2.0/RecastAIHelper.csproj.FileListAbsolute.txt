@@ -1,0 +1,17 @@
+F:\Ashish\VSTS\RecastAIHelper\bin\Debug\netstandard2.0\RecastAIHelper.deps.json
+F:\Ashish\VSTS\RecastAIHelper\bin\Debug\netstandard2.0\RecastAIHelper.dll
+F:\Ashish\VSTS\RecastAIHelper\obj\Debug\netstandard2.0\RecastAIHelper.csprojAssemblyReference.cache
+F:\Ashish\VSTS\RecastAIHelper\obj\Debug\netstandard2.0\RecastAIHelper.csproj.CoreCompileInputs.cache
+F:\Ashish\VSTS\RecastAIHelper\obj\Debug\netstandard2.0\RecastAIHelper.AssemblyInfoInputs.cache
+F:\Ashish\VSTS\RecastAIHelper\obj\Debug\netstandard2.0\RecastAIHelper.AssemblyInfo.cs
+F:\Ashish\VSTS\RecastAIHelper\bin\Debug\netstandard2.0\RecastAIHelper.pdb
+F:\Ashish\VSTS\RecastAIHelper\obj\Debug\netstandard2.0\RecastAIHelper.dll
+F:\Ashish\VSTS\RecastAIHelper\obj\Debug\netstandard2.0\RecastAIHelper.pdb
+C:\Users\mehta\source\repos\RecastAIHelperUse\RecastAIHelper\bin\Debug\netstandard2.0\RecastAIHelper.deps.json
+C:\Users\mehta\source\repos\RecastAIHelperUse\RecastAIHelper\bin\Debug\netstandard2.0\RecastAIHelper.dll
+C:\Users\mehta\source\repos\RecastAIHelperUse\RecastAIHelper\bin\Debug\netstandard2.0\RecastAIHelper.pdb
+C:\Users\mehta\source\repos\RecastAIHelperUse\RecastAIHelper\obj\Debug\netstandard2.0\RecastAIHelper.csproj.CoreCompileInputs.cache
+C:\Users\mehta\source\repos\RecastAIHelperUse\RecastAIHelper\obj\Debug\netstandard2.0\RecastAIHelper.AssemblyInfoInputs.cache
+C:\Users\mehta\source\repos\RecastAIHelperUse\RecastAIHelper\obj\Debug\netstandard2.0\RecastAIHelper.AssemblyInfo.cs
+C:\Users\mehta\source\repos\RecastAIHelperUse\RecastAIHelper\obj\Debug\netstandard2.0\RecastAIHelper.dll
+C:\Users\mehta\source\repos\RecastAIHelperUse\RecastAIHelper\obj\Debug\netstandard2.0\RecastAIHelper.pdb

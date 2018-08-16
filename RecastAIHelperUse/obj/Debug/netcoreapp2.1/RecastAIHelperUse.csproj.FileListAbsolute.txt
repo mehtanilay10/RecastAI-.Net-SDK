@@ -1,0 +1,14 @@
+C:\Users\mehta\source\repos\RecastAIHelperUse\RecastAIHelperUse\obj\Debug\netcoreapp2.1\RecastAIHelperUse.csprojAssemblyReference.cache
+C:\Users\mehta\source\repos\RecastAIHelperUse\RecastAIHelperUse\obj\Debug\netcoreapp2.1\RecastAIHelperUse.csproj.CoreCompileInputs.cache
+C:\Users\mehta\source\repos\RecastAIHelperUse\RecastAIHelperUse\obj\Debug\netcoreapp2.1\RecastAIHelperUse.AssemblyInfoInputs.cache
+C:\Users\mehta\source\repos\RecastAIHelperUse\RecastAIHelperUse\obj\Debug\netcoreapp2.1\RecastAIHelperUse.AssemblyInfo.cs
+C:\Users\mehta\source\repos\RecastAIHelperUse\RecastAIHelperUse\bin\Debug\netcoreapp2.1\RecastAIHelperUse.deps.json
+C:\Users\mehta\source\repos\RecastAIHelperUse\RecastAIHelperUse\bin\Debug\netcoreapp2.1\RecastAIHelperUse.runtimeconfig.json
+C:\Users\mehta\source\repos\RecastAIHelperUse\RecastAIHelperUse\bin\Debug\netcoreapp2.1\RecastAIHelperUse.runtimeconfig.dev.json
+C:\Users\mehta\source\repos\RecastAIHelperUse\RecastAIHelperUse\bin\Debug\netcoreapp2.1\RecastAIHelperUse.dll
+C:\Users\mehta\source\repos\RecastAIHelperUse\RecastAIHelperUse\bin\Debug\netcoreapp2.1\RecastAIHelperUse.pdb
+C:\Users\mehta\source\repos\RecastAIHelperUse\RecastAIHelperUse\bin\Debug\netcoreapp2.1\RecastAIHelper.dll
+C:\Users\mehta\source\repos\RecastAIHelperUse\RecastAIHelperUse\bin\Debug\netcoreapp2.1\RecastAIHelper.pdb
+C:\Users\mehta\source\repos\RecastAIHelperUse\RecastAIHelperUse\obj\Debug\netcoreapp2.1\RecastAIHelperUse.csproj.CopyComplete
+C:\Users\mehta\source\repos\RecastAIHelperUse\RecastAIHelperUse\obj\Debug\netcoreapp2.1\RecastAIHelperUse.dll
+C:\Users\mehta\source\repos\RecastAIHelperUse\RecastAIHelperUse\obj\Debug\netcoreapp2.1\RecastAIHelperUse.pdb
